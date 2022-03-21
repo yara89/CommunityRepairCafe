@@ -33,7 +33,7 @@ The best way to be efficient is to reuse what we already have.
 
 -----
 
-![help community member](images/help_community_member_rhino-camp.jpg)
+![help community member](./images/help_community_member_rhino-camp.jpg)
 
 ### Help Community Member
 
